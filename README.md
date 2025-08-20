@@ -1,4 +1,4 @@
-# Motorola-Sales-Dashboards
+# Mobile-Sales-Dashboards
 ## 🎯 Goal of the Dashboard  
 The purpose of this Power BI dashboard is to:  
 - Provide a **comprehensive, real-time view of sales performance** for Motorola and competitors.  
